@@ -1,0 +1,335 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make.exe: *** No rule to make target 'all'.  Stop.
+
+# GNU Make 4.1
+# Built for x86_64-pc-mingw32
+# Copyright (C) 1988-2014 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Wed Aug 10 13:09:24 2022
+
+# Variables
+
+# environment
+SM_T222_TARGET_LIB = C:\SiliconMobility\OLEA-HVIC2\LIB\TARGET
+# environment
+SM_T222_CANOPEN_LIB = C:\SiliconMobility\OLEA-BRENON\APP\INVERTER_ED_BRENON\Com\CANopen
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# automatic
+?F = $(notdir $?)
+# default
+.SHELLFLAGS := -c
+# makefile
+MAKEFLAGS = pqrR
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# makefile
+CURDIR := d:/CloneBot/Clone_ElectronBot/Firmware/ServoDrive-fw
+# default
+SHELL := sh.exe
+# environment
+CLION = d:\Program Files\JetBrains\CLion 2022.2\bin;
+# environment
+WINDIR = C:\WINDOWS
+# environment
+RABBITMQ_CONFIG_FILE = "C:\ProgramData\National Instruments\Skyline\RabbitMQ\rabbitmq"
+# environment
+ONEDRIVE = D:\OneDrive
+# environment
+SM_T222_INVERTER_APP = C:\SiliconMobility\OLEA-HVIC2\APP\INVERTER_ED
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile
+MAKEFILE_LIST := 
+# environment
+SM_T222_J1939_LIB = C:\SiliconMobility\OLEA-BRENON\APP\INVERTER_ED_BRENON\Com\J1939
+# environment
+VSCODE_NLS_CONFIG = {"locale":"zh-cn","availableLanguages":{},"_languagePackSupport":true}
+# environment
+TMP = C:\Users\sylvain\AppData\Local\Temp
+# environment
+SM_T222_INVERTER_ED_APP = C:\SiliconMobility\OLEA-BRENON\APP\INVERTER_ED_BRENON
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+VSCODE_CWD = C:\Users\sylvain\AppData\Local\Programs\Microsoft VS Code
+# environment
+SM_T222_ALGO_LIB = C:\SiliconMobility\OLEA-HVIC2\LIB\MATH
+# default
+MAKE_HOST := x86_64-pc-mingw32
+# environment
+PATH = C:\Program Files\National Instruments\Shared\OpenVINO\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Business Objects\Common\3.5\bin\NOTES\;C:\Program Files (x86)\Business Objects\Common\3.5\bin\NOTES\DATA\;C:\Program Files (x86)\Common Files\Fujitsu\COBOL;C:\WINDOWS\SYSTEM32;C:\WINDOWS;C:\WINDOWS\SYSTEM32\WBEM;C:\WINDOWS\SYSTEM32\WINDOWSPOWERSHELL\V1.0\;C:\WINDOWS\SYSTEM32\OPENSSH\;C:\PROGRA~2\COMMON~1\FUJITSU\COBOL;C:\Program Files (x86)\Common Files\Macola Shared;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;D:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;D:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\GNU Tools ARM Embedded\9 2019-q4-major\bin;C:\Program Files\dotnet\;D:\Program Files\MATLAB\R2018b\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\bin;D:\HighTec\toolchains\tricore\v4.9.3.0-infineon-1.0\bin;D:\Anaconda;D:\Anaconda\Library\mingw-w64\bin;D:\Anaconda\Library\usr\bin;D:\Anaconda\Library\bin;D:\Anaconda\Scripts;C:\Users\sylvain\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\sylvain\AppData\Local\Programs\Python\Python37-32\;C:\Users\sylvain\AppData\Local\Microsoft\WindowsApps;C:\Users\sylvain\AppData\Local\Pandoc\;C:\Users\sylvain\AppData\Roaming\npm;C:\Users\sylvain\AppData\Local\Programs\Microsoft VS Code\bin;C:\Infineon\LauncherService;d:\Program Files\JetBrains\CLion 2022.2\bin;;D:\mingw64\bin
+# environment
+LM_LICENSE_FILE = d:\sylvain\Documents\SIMO_lic\license_precision.dat;
+# environment
+NIDAQMXSWITCHDIR = D:\Program Files (x86)\National Instruments\NI-DAQ\Switch\
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+ZES_ENABLE_SYSMAN = 1
+# environment
+OPENOCD_EXE = D:\SiliconMobility\OLEA-HVIC\COMPOSER\SDK\Tools\Toolchains\GCC\openocd\openocd-0.10.0\bin\openocd.exe
+# environment
+NIEXTCCOMPILERSUPP = D:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+VXIPNPPATH64 = C:\Program Files\IVI Foundation\VISA\
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\005cc0ccb8aa6bad36aa2435c0cea53c-1.70.0-main-sock
+# environment
+USERPROFILE = C:\Users\sylvain
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+NUMBER_OF_PROCESSORS = 8
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync
+# environment
+NIIVIPATH = C:\Program Files (x86)\IVI Foundation\IVI\
+# environment
+OV_NI_PLUGIN_DIR = C:\Program Files\National Instruments\Shared\OpenVINO\
+# automatic
+%F = $(notdir $%)
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_22240_IQSOJAQMTQVEWAKW
+# environment
+SVN_SSH = D:\Program Files\TortoiseSVN\bin\TortoisePlink.exe
+# environment
+SM_T222_CORE_INVERTER = C:\SiliconMobility\OLEA-HVIC2\APP\INVERTER_ED\Core
+# environment
+AGILIS_HOME = C:\SiliconMobility\OLEA-HVIC2\COMPOSER\AGILIS PRECISION RTL\AGILIS
+# environment
+COMPUTERNAME = SYLVAIN_L7400
+# environment
+CANALYZER_INSTALLDIR64 = D:\CANalyzer\Exec64\
+# environment
+PROGRAMFILES = C:\Program Files
+# environment
+USERDNSDOMAIN = SOGEAR.LOCAL
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+ASL.LOG = Destination=file
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERNAME = Sylvain
+# environment
+SM_T222_SDK_HOME = C:\SiliconMobility\OLEA-HVIC2\COMPOSER\SDK
+# environment
+PUBLIC = C:\Users\Public
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+CANALYZER_INSTALLDIR = D:\CANalyzer\Exec64\
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\sylvain\AppData\Roaming\Code\CachedData\da76f93349a72022ca4670c1b84860304616aaa2
+# environment
+SM_T222_PRECISION_HOME = C:\MentorGraphics\PS2019.1_OEM_Siliconmobility_64-bit\Mgc_home\bin\precision.exe
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# environment
+LOGONSERVER = \\SOGDC1
+# environment
+ONEDRIVECONSUMER = D:\OneDrive
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+USERDOMAIN = SOGEAR
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# environment
+IVIROOTDIR32 = C:\Program Files (x86)\IVI Foundation\IVI\
+# default
+MAKE_VERSION := 4.1
+# makefile
+.DEFAULT_GOAL := 
+# environment
+RABBITMQ_BASE = C:\ProgramData\RabbitMQ
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# environment
+LOCALAPPDATA = C:\Users\sylvain\AppData\Local
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make.exe
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+# environment
+OS = Windows_NT
+# environment
+IVIROOTDIR64 = C:\Program Files\IVI Foundation\IVI\
+# environment
+HOMEPATH = \Users\sylvain
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+SM_T222_MATH_LIB = C:\SiliconMobility\OLEA-HVIC2\LIB\MATH
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -pqrR
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+SYSTEMROOT = C:\WINDOWS
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# environment
+TSIM_CONFIG_DIR = D:\HighTec\tsim\1.18.1\config
+# automatic
++F = $(notdir $+)
+# environment
+APPDATA = C:\Users\sylvain\AppData\Roaming
+# environment
+VXIPNPPATH = C:\Program Files (x86)\IVI Foundation\VISA\
+# environment
+TEMP = C:\Users\sylvain\AppData\Local\Temp
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# default
+MAKEFILES := 
+# automatic
+<F = $(notdir $<)
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+GIT_SSH = C:\Program Files\Git\usr\bin\ssh.exe
+# environment
+LC_ALL = C
+# environment
+DAS_HOME = C:\Program Files\DAS64
+# environment
+SIMOBILITY_LICENSE = d:\sylvain\Documents\SIMO_lic\license.lic
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# environment
+SESSIONNAME = Console
+# environment
+PROCESSOR_REVISION = 8e0c
+# environment
+IFX_TOOLBOX_UUID = 2c2e8715-2e0e-32b7-8dea-6d916222d60d
+# environment
+RLM_LICENSE = D:\HighTec\licenses
+# default
+.RECIPEPREFIX := 
+# environment
+RABBITMQ_NODENAME = rabbit@localhost
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+VSCODE_PID = 22240
+# environment
+USERDOMAIN_ROAMINGPROFILE = SOGEAR
+# variable set hash-table stats:
+# Load=122/1024=12%, Rehash=0, Collisions=22/140=16%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (key d:/CloneBot/Clone_ElectronBot/Firmware/ServoDrive-fw, mtime 1660107998): 22 files, no impossibilities.
+
+# 22 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+makefile.mak:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+GNUmakefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# files hash-table stats:
+# Load=7/1024=1%, Rehash=0, Collisions=0/16=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 29 / storage = 313 B / avg = 10 B
+# current buf: size = 8162 B / used = 313 B / count = 29 / avg = 10 B
+
+# strcache performance: lookups = 31 / hit rate = 6%
+# hash-table stats:
+# Load=29/8192=0%, Rehash=0, Collisions=1/31=3%
+# Finished Make data base on Wed Aug 10 13:09:24 2022
+
+ 
