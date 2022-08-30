@@ -2,6 +2,8 @@
     "files.associations": {
         "main.h": "c",
         "stm32f0xx_ll_adc.h": "c",
-        "stm32f0xx.h": "c"
+        "stm32f0xx.h": "c",
+        "gpio.h": "c",
+        "stm32f0xx_ll_dma.h": "c"
     }
 }

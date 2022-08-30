@@ -1,5 +1,5 @@
-#ifndef _COMMON_INC_H_
-#define _COMMON_INC_H_
+#ifndef __COMMON_INC_H__
+#define __COMMON_INC_H__
 
 #define CONFIG_FW_VERSION 1.0
 
@@ -30,4 +30,4 @@ extern char serialNumberStr[13];
 
 
 #endif
-#endif /* _COMMON_INC_H_ */
+#endif /* __COMMON_INC_H__ */

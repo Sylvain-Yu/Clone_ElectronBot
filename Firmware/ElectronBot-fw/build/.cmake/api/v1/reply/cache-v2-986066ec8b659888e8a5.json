@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/CloneBot/Clone_ElectronBot/Firmware/ServoDrive-fw/build"
+			"value" : "d:/CloneBot/Clone_ElectronBot/Firmware/ElectronBot-fw/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -663,7 +663,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/CloneBot/Clone_ElectronBot/Firmware/ServoDrive-fw/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/CloneBot/Clone_ElectronBot/Firmware/ElectronBot-fw/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -723,7 +723,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/CloneBot/Clone_ElectronBot/Firmware/ServoDrive-fw"
+			"value" : "D:/CloneBot/Clone_ElectronBot/Firmware/ElectronBot-fw"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -735,7 +735,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/ServoDrive-fw"
+			"value" : "C:/Program Files (x86)/ElectronBot-fw"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -923,7 +923,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "ServoDrive-fw"
+			"value" : "ElectronBot-fw"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1194,7 +1194,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "ServoDrive-fw_BINARY_DIR",
+			"name" : "ElectronBot-fw_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1203,10 +1203,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/CloneBot/Clone_ElectronBot/Firmware/ServoDrive-fw/build"
+			"value" : "D:/CloneBot/Clone_ElectronBot/Firmware/ElectronBot-fw/build"
 		},
 		{
-			"name" : "ServoDrive-fw_IS_TOP_LEVEL",
+			"name" : "ElectronBot-fw_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1218,7 +1218,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "ServoDrive-fw_SOURCE_DIR",
+			"name" : "ElectronBot-fw_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1227,7 +1227,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/CloneBot/Clone_ElectronBot/Firmware/ServoDrive-fw"
+			"value" : "D:/CloneBot/Clone_ElectronBot/Firmware/ElectronBot-fw"
 		}
 	],
 	"kind" : "cache",
