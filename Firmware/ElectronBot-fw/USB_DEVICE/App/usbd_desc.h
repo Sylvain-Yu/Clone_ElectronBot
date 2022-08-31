@@ -19,8 +19,8 @@
   */
 /* USER CODE END Header */
 /* Define to prevent recursive inclusion -------------------------------------*/
-#ifndef __USBD_DESC__C__
-#define __USBD_DESC__C__
+#ifndef __USBD_DESC_H__
+#define __USBD_DESC_H__
 
 #ifdef __cplusplus
  extern "C" {
@@ -140,6 +140,6 @@ extern USBD_DescriptorsTypeDef HS_Desc;
 }
 #endif
 
-#endif /* __USBD_DESC__C__ */
+#endif /* __USBD_DESC_H__ */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
